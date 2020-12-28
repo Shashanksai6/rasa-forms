@@ -1,0 +1,59 @@
+rasa chat bot simple converstion
+
+here c= customer , s=system
+as the user open the web page bot should be active and it start the converation
+
+it has 2 parts mainly when 1)customer wants to sell the car 2) customer wants to buy the car 
+
+s: hello Welcome to the car market of  caradis.fr, how can i help you ?
+
+c:i want to sell my car
+
+s:are you registered to our website before? 
+
+c:no
+
+s:first you need to complete  the registartion process for our websites. to start registartion process follow this steps
+  click on the login button>.registration>>fill the details
+
+c: i completed the registration process how i can place my order
+    
+s:To place the order first ensure that you are loggin into the websited. then follow these steps
+    1)go to my account>>api call management
+    2) select your car name from the drop down menu
+    3) purchase the api of the car by clicking on "purchase new api call"
+    4) go to active orders >> search for car active order >> click on post order.
+
+c: i want to buy car
+
+s: our website conatins sevreal car lsiting on it can you specify the car's arrtributes (i.e. , car brand, car model , price ...)
+
+c:i am looking for mercedes-benz cars
+
+s: here is list of car models available in merceds-benz 
+
+c: i am interested in G class models
+
+s: Top 10 cars according to your specficiations are 
+   1 ...
+   2.... 
+   3....
+   4.....
+   5.....
+
+c: i am interested in the ... car , how i can buy it.
+
+s: are you registered to our website before? 
+
+c: no
+
+s:first you need to complete  the registartion process for our websites. to start registartion process follow this steps
+  click on the login button>.registration>>fill the details
+
+c:i completed the registration process how i can place my order
+
+s: To place the order first ensure that you are loggin into the websited. then follow these steps
+   1) go to active orders>>select your car>>select the car price
+mean values of the matter uu car vijor
+
+   
